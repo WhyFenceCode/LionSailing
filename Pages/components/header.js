@@ -1,7 +1,7 @@
 const headerTemplate = document.createElement('template');
 
 headerTemplate.innerHTML = `
-  <link rel="stylesheet" href="header.css">
+  <link rel="stylesheet" href="Pages/components/header.css">
   <header>
     <div class="banner">
       <div class="logo">
