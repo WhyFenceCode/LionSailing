@@ -3,13 +3,18 @@ const headerTemplate = document.createElement('template');
 headerTemplate.innerHTML = `
   <link rel="stylesheet" href="header.css">
   <header>
-    <nav>
-      <ul>
-        <li><a href="about.html">About</a></li>
-        <li><a href="work.html">Work</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
+    <div class="banner">
+      <div class="logo">
+        <img src="https://github.com/WhyFenceCode/LionSailing/blob/main/Photos/Logo/lion%20Head%20No%20Back%20Purlple.png?raw=true" alt="LionLogo">
+        <h1>Lion</h1
+      </div>
+      <div class="account">
+      
+      </div>
+    </div>
+    <div class="navigation">
+    
+    </div>
   </header>
 `;
 
