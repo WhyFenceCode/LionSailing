@@ -6,3 +6,8 @@
 h1.logo {
   font-family: 'Aquire';
 }
+
+img.logo {
+max-width: 10%;
+height: auto;
+}
