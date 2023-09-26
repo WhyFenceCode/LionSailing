@@ -1,7 +1,7 @@
 const headerTemplate = document.createElement('template');
 
 headerTemplate.innerHTML = `
-  <link rel="stylesheet" href="Pages/components/header.css">
+  <link rel="stylesheet" href="https://github.com/WhyFenceCode/LionSailing/blob/a75df79c45522483e7ca3a59e3ec9bd2777df19f/Pages/components/header.css">
   <header>
     <div class="banner">
       <div class="logo">
