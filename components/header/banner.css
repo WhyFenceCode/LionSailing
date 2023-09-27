@@ -11,7 +11,7 @@ h1{
 img {
   padding-top: 50px;
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
-  max-height: 50px;
+  max-height: 40px;
   width: auto;
   display: inline-block;
 }
