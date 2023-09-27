@@ -1,0 +1,6 @@
+@font-face { font-family: Aquire; src: url('font/Aquire.otf'); }
+
+h1{
+  font-family: Aquire;
+  font-size: 40px;
+}
