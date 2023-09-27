@@ -9,3 +9,8 @@
 h1{
   font-family: Aquire;
 }
+
+.logo{
+  display: flex; 
+  align-items: left;
+}
