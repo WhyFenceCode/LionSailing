@@ -7,7 +7,7 @@ h1{
 
 img {
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
-  max-height: 40px;
+  max-height: 50px;
   width: auto;
 }
 
