@@ -3,18 +3,12 @@
 h1{
   font-family: Aquire;
   font-size: 40px;
+  display: inline-block;
 }
 
 img {
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
   max-height: 50px;
   width: auto;
-}
-
-.logopicture{
-  height: 50px;
-}
-
-.logotext{
-  height: 40px;
+  display: inline-block;
 }
