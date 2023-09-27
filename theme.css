@@ -4,7 +4,7 @@
   --main-light-gray: #e6e6e6; 
 }
 
-@font-face { font-family: Aquire; src: url('https://github.com/WhyFenceCode/LionSailing/blob/b150a61b9f3598116fc58ce46512ae16c50e2986/font/Aquire.otf'); } 
+@font-face { font-family: Aquire; src: url('font/Aquire.otf'); } 
 
 h1{
   font-family: Aquire;
