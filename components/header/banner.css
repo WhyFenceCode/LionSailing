@@ -5,9 +5,11 @@ h1{
   font-size: 40px;
   display: inline-block;
   padding-left: 80px;
+  padding-top: 50px;
 }
 
 img {
+  padding-top: 50px;
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
   max-height: 50px;
   width: auto;
