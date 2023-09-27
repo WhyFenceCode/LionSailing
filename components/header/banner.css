@@ -11,10 +11,10 @@ img {
   width: auto;
 }
 
-#logopicture{
+.logopicture{
   height: 40px;
 }
 
-#logotext{
+.logotext{
   height: 40px;
 }
