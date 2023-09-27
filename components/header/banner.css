@@ -5,6 +5,7 @@ h1{
   font-size: 10vh;
   display: inline-block;
   padding-left: 6vw;
+  vertical-align:middle; 
 }
 
 img {
