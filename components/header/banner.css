@@ -4,3 +4,7 @@ h1{
   font-family: Aquire;
   font-size: 40px;
 }
+
+img {
+  filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
+}
