@@ -4,14 +4,12 @@ h1{
   font-family: Aquire;
   font-size: 40px;
   display: inline-block;
-  padding-left: 80px;
-  padding-top: 50px;
+  padding-left: 7vw;
 }
 
 img {
-  padding-top: 50px;
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
-  max-height: 40px;
+  max-height: 50px;
   width: auto;
   display: inline-block;
 }
