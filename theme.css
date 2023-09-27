@@ -6,6 +6,6 @@
 
 @font-face { font-family: Aquire; src: url('https://github.com/WhyFenceCode/LionSailing/blob/b150a61b9f3598116fc58ce46512ae16c50e2986/font/Aquire.otf'); } 
 
-.header>banner>logo{
+h1.logo{
   font-family: Aquire;
 }
