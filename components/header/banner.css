@@ -9,7 +9,7 @@ h1{
 
 img {
   filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(180deg);
-  height: 10vh;
+  height: 8vh;
   width: auto;
   display: inline-block;
 }
