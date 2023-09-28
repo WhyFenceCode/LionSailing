@@ -6,14 +6,6 @@
 
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-
-      body{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        overflow: hidden;
-        font-family: 'Open Sans', sans-serif;
-      }
       
       h2{
         font-family: 'Open Sans', sans-serif;
@@ -47,7 +39,7 @@
         align-items: center;
         justify-content: center;
         cursor: pointer;
-        box-shadow: 0px 0px 0.3vh  rgba(255,255,255,0.6);
+        box-shadow: 0px 0px 2px  rgba(255,255,255,0.6);
         transition: 0.5s;
       }
       .button:before {
@@ -57,8 +49,8 @@
         top:0;
         width: 0;
         height: 0;
-        border-top: 0.2vh solid white;
-        border-right: 0.2vh solid white;
+        border-top: 2px solid white;
+        border-right: 2px solid white;
         animation: border-top-right 3s infinite alternate;
       }
       .button:after {
@@ -68,8 +60,8 @@
         bottom:0;
         width: 0;
         height: 0;
-        border-bottom: 0.3vh solid white;
-        border-left: 0.3vh solid white;
+        border-bottom: 3px solid white;
+        border-left: 3px solid white;
         animation: border-bottom-left 3s infinite alternate;
       }
       .button:hover {
